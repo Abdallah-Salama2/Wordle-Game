@@ -1,6 +1,5 @@
 # Wordle-Game 
 
-Wordle Game Project For OOP Class
 
-Using
+Tools:
 Java ,Sql Database
